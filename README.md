@@ -6,7 +6,6 @@ O objetivo do projeto é criar um "blog" como aprendizado para os envolvidos na 
 
 Todos que participarem do projeto, seja iniciante na área ou não receberão feedback constante sobre o que foi desenvolvido.
 
-#####Ninguém é melhor do que ninguém, vamos compartilhar conhecimento para que todos aprendam.
 #####Pré requisito é ter noção (ter noção não é ser expert):
  - HTML
  - CSS 
@@ -14,6 +13,6 @@ Todos que participarem do projeto, seja iniciante na área ou não receberão fe
 
 
 #####Futuramente  vamos ter uma pasta onde terão conteudos de aprendizado especificos, caso os envolvidos não conheçam algo e queiram aprender mais sobre, fora do projeto principal.
+#####Ninguém é melhor do que ninguém, vamos compartilhar conhecimento para que todos aprendam.
 
-
-Por favor, de uma STAR e um FORK antes de começão. Obrigado.
+- Por favor, de uma STAR e um FORK antes de começão. Obrigado.
