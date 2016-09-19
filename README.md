@@ -27,4 +27,4 @@ Futuramente  vamos ter uma pasta onde terão conteudos e links de aprendizado, c
 - Por favor, de uma STAR e um FORK antes de começar. Obrigado.
 
 
-#####Charles Araújo (11)98684-3458. 
+######Charles Araújo (11)98684-3458. 
