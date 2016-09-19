@@ -12,6 +12,7 @@ Todos que participarem do projeto, seja iniciante na área ou não receberão fe
  - JAVASCRIPT
  - GIT
 
+#####As tecnologias usadas(ou framework) serão discutidas posteriormente, a ideia inicial é usar MEAN Stack. Teremos um grupo no whatsapp para isto.
 #####Regras:
  - Não faça nada no Branch MASTER (O master vai ser considerado a versão final).
  - Tudo que for feito será passado por aprovação antes de ir pro MASTER (Respeite isto).
