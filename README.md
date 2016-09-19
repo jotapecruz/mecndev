@@ -19,6 +19,7 @@ Após seu primeiro commit aprovado você terá direito a um e-mail @mecndev.com,
 Regras:
  - Não faça nada no Branch MASTER (O master vai ser considerado a versão final).
  - Tudo que for feito será passado por aprovação antes de ir pro MASTER. Respeite isto.
+ - Pelo amor de Deus, Comente seu codigo.
 
 Futuramente  vamos ter uma pasta onde terão conteudos e links de aprendizado, caso os envolvidos não conheçam algo e queiram aprender mais sobre, fora do projeto principal.
 
