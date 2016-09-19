@@ -1,0 +1,2 @@
+# mecndev
+Projeto Open Source. Onde o objetivo é criar um "blog" como aprendizado para os envolvidos na área de desenvolvimento WEB. Todos que participarem do projeto, seja iniciante na área ou não receberão feedback constante sobre o que foi desenvolvido. Ninguém é melhor do que ninguém, vamos compartilhar conhecimento para que todos aprendam. O único pré requisito é ter noção (ter noção não é ser expert) de HTML, CSS e JAVASCRIPT.
